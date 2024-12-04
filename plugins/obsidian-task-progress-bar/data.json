@@ -1,0 +1,8 @@
+{
+  "addTaskProgressBarToHeading": true,
+  "addNumberToProgressBar": true,
+  "showPercentage": true,
+  "allowAlternateTaskStatus": false,
+  "alternativeMarks": "(x|X|-)",
+  "countSubLevel": true
+}

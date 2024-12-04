@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "YYYY-ww-MM-DD-d",
+    "template": "zob_config/template/daily2.md",
+    "folder": "dairy/daily",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww-MM",
+    "folder": "dairy/weekly",
+    "template": "zob_config/template/weekly.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  }
+}

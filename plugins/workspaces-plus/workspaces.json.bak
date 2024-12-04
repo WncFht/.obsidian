@@ -1,0 +1,163 @@
+{
+  "workspaces": {
+    "work": {
+      "main": {
+        "id": "199d9449ae20e424",
+        "type": "split",
+        "children": [
+          {
+            "id": "017cc4faf1f839b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4fa8b2c3d3772d66",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "todo.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4f14b17e268f90b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "88a447b3194ed60c",
+            "type": "tabs",
+            "dimension": 58.9648798521257,
+            "children": [
+              {
+                "id": "1d3e0639cf4c759c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "畸变",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c43b02e295c4e846",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "414a62a80d4fa672",
+            "type": "tabs",
+            "dimension": 41.0351201478743,
+            "children": [
+              {
+                "id": "38119d24dd106535",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5
+      },
+      "right": {
+        "id": "a2f3e69f1404aa81",
+        "type": "split",
+        "children": [
+          {
+            "id": "ee185182cd8a8c48",
+            "type": "tabs",
+            "dimension": 42.22222222222222,
+            "children": [
+              {
+                "id": "43f2a08e8da8da62",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "98328103bdce2a61",
+            "type": "tabs",
+            "dimension": 57.77777777777777,
+            "children": [
+              {
+                "id": "af4ab8e73361b92f",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a50dbc06c6016297",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "todo.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 287.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": true,
+          "command-palette:打开命令面板": false,
+          "obsidian-git:Open Git source control": false,
+          "pdf-plus:PDF++: Toggle auto-copy": true,
+          "pdf-plus:PDF++: Toggle auto-focus": true,
+          "pdf-plus:PDF++: Toggle auto-paste": true,
+          "graph:查看关系图谱": false,
+          "periodic-notes:Open today": false,
+          "workspaces:管理工作区布局": false,
+          "workspaces-plus:Manage workspaces": false
+        }
+      },
+      "active": "a50dbc06c6016297",
+      "mtime": "2024-10-06T11:21:06+08:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Computer/Language",
+          "Computer/Language/C++",
+          "environment",
+          "website_to_read",
+          "zob_config/template"
+        ]
+      }
+    }
+  },
+  "active": "work"
+}
